@@ -12,7 +12,12 @@ yelp-realtime-socket-streaming
 
 **ABSTRACT OF PROJECT:**
 
-This project serves as a comprehensive guide to building an end-to-end data engineering pipeline using TCP/IP Socket, Apache Spark, OpenAI's GPT-4, Kafka, and Elasticsearch. The project covers each stage from data acquisition, processing, and sentiment analysis with ChatGPT, to production in Kafka topics and connection to Elasticsearch. The dataset used is Yelp customer reviews, which allows for real-time analysis and visualization of user feedback. This project demonstrates the seamless integration of these technologies to handle real-time data streaming and analytics.
+This project serves as a comprehensive guide to building an end-to-end data engineering pipeline
+using TCP/IP Socket, Apache Spark, OpenAI's GPT-3.5 Turbo APi, Kafka, and Elasticsearch. The project covers 
+each stage from data acquisition, processing, and sentiment analysis with ChatGPT, to production 
+in Kafka topics and connection to Elasticsearch. The dataset used is Yelp customer reviews,
+which allows for real-time analysis and visualization of user feedback. This project
+demonstrates the seamless integration of these technologies to handle real-time data streaming and analytics.
 
 ------------------------------------------------------------------------------------------------
 
