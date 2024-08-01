@@ -110,6 +110,52 @@ of large datasets.
 
 ------------------------------------------------------------------------------------------------
 
+**Future Scope of Work:**
 
+As a potential future scope , an integration of the a reporting tool like Tableau/Power BI will
+be done  This will end the end client/stakeholder to have an understanding
+of the system without delving deep into the tech side. Hence can take logical decisions 
+based on the graphical view / mapping of the system in place
+
+Integrating Tableau with the project can provide significant benefits for clients and stakeholders
+by transforming raw data into actionable insights through interactive dashboards and visualizations. 
+Here’s how Tableau can be leveraged:
+
+Interactive Dashboards:
+
+Create dynamic and interactive dashboards that allow clients to explore the sentiment analysis results of 
+Yelp customer reviews in real-time. Users can drill down into specific details and filter data based on various
+parameters such as time range, location, or specific keywords.
+
+Real-time Data Visualization:
+
+Connect Tableau directly to the Elasticsearch index to visualize the real-time data streaming into the system. 
+This enables stakeholders to monitor live updates and trends as new customer reviews are processed.
+Sentiment Trends Analysis:
+
+Visualize sentiment trends over time to identify patterns and shifts in customer opinions.
+This can help businesses understand the impact of their actions on customer sentiment and make timely adjustments.
+
+Geospatial Analysis:
+
+Use Tableau’s mapping capabilities to visualize the geographical distribution of 
+customer reviews and sentiments. This can help identify regional trends and preferences.
+Performance Metrics:
+
+Track key performance metrics such as the volume of reviews processed, sentiment scores,
+and response times. This can provide insights into the efficiency of the data pipeline and 
+the overall health of the system.
+
+Customizable Reports:
+
+Generate customizable reports that can be shared with different departments within the organization.
+These reports can include insights tailored to the specific needs of marketing, customer service,
+product development, and other teams.
+
+Alerting and Notifications:
+
+Set up alerts and notifications within Tableau to inform stakeholders about significant changes
+in sentiment or other important metrics. This ensures that key decision-makers are always aware of
+critical insights as they happen.
 
 
