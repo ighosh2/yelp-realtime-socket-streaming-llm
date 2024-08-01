@@ -83,7 +83,7 @@ and fast data exchange between different components of the pipeline.
 
 ------------------------------------------------------------------------------------------------
 
-TECHNOLOGY USED AND WHY:
+**TECHNOLOGY USED AND WHY:**
 
 TCP/IP Socket:
 Reason: To transfer data efficiently over network connections, enabling real-time data acquisition 
