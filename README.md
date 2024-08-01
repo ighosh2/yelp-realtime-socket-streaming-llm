@@ -1,14 +1,25 @@
-PROJECT NAME:
-Real-time Socket Streaming and Sentiment Analysis Using Yelp Customer Data and LLM Model
+**PROJECT NAME:**
 
-REPO NAME:
+Real-time Socket Streaming and Sentiment Analysis Using Yelp Customer Data and LLM 
+
+------------------------------------------------------------------------------------------------
+
+**REPO NAME:**
+
 yelp-realtime-socket-streaming
 
-ABSTRACT OF PROJECT:
+------------------------------------------------------------------------------------------------
+
+**ABSTRACT OF PROJECT:**
+
 This project serves as a comprehensive guide to building an end-to-end data engineering pipeline using TCP/IP Socket, Apache Spark, OpenAI's GPT-4, Kafka, and Elasticsearch. The project covers each stage from data acquisition, processing, and sentiment analysis with ChatGPT, to production in Kafka topics and connection to Elasticsearch. The dataset used is Yelp customer reviews, which allows for real-time analysis and visualization of user feedback. This project demonstrates the seamless integration of these technologies to handle real-time data streaming and analytics.
 
-WHAT ARE WE TRYING TO SOLVE:
+------------------------------------------------------------------------------------------------
+
+**WHAT ARE WE TRYING TO SOLVE:**
+
 The project aims to solve the challenge of real-time data streaming and processing, particularly focusing on:
+
 
 Efficient data transfer over TCP/IP socket connections.
 Real-time sentiment analysis of Yelp customer reviews using advanced language models.
@@ -32,7 +43,9 @@ By indexing Yelp reviews in Elasticsearch, organizations can provide fast and re
 Streaming Data Pipelines:
 Use cases that require continuous data flow and processing, such as monitoring customer sentiment or analyzing trends in customer feedback, can benefit from this pipeline.
 
-LIBRARIES USED AND WHY:
+------------------------------------------------------------------------------------------------
+
+**LIBRARIES USED AND WHY:**
 
 OpenAI:
 Reason: For advanced sentiment analysis and natural language processing tasks, leveraging the capabilities of GPT-4 for understanding and analyzing text data from Yelp reviews.
