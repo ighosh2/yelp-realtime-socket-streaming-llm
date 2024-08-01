@@ -78,23 +78,35 @@ Reason: For integrating with Kafka to build real-time data pipelines, ensuring
 high-throughput, fault-tolerant, and scalable data streaming.
 
 fastavro:
-Reason: To serialize and deserialize data efficiently in Avro format, enabling compact and fast data exchange between different components of the pipeline.
+Reason: To serialize and deserialize data efficiently in Avro format, enabling compact 
+and fast data exchange between different components of the pipeline.
+
+------------------------------------------------------------------------------------------------
+
 TECHNOLOGY USED AND WHY:
 
 TCP/IP Socket:
-Reason: To transfer data efficiently over network connections, enabling real-time data acquisition from various sources.
+Reason: To transfer data efficiently over network connections, enabling real-time data acquisition 
+from various sources.
 
 Apache Spark:
-Reason: For distributed data processing and real-time analytics, ensuring the system can handle large volumes of data efficiently.
+Reason: For distributed data processing and real-time analytics, ensuring the system can handle 
+large volumes of data efficiently.
 
-OpenAI GPT-4:
-Reason: For performing sentiment analysis and other natural language processing tasks, providing deep insights from Yelp review data.
+OpenAI GPT-3.5 Turbo (LLM Component):
+
+Reason: For performing sentiment analysis and other natural language processing tasks, providing
+deep insights from Yelp review data.
 
 Kafka:
-Reason: To stream data reliably and at scale, ensuring that data flows smoothly through the pipeline from acquisition to storage.
+
+Reason: To stream data reliably and at scale, ensuring that data flows smoothly through the pipeline
+from acquisition to storage.
 
 Elasticsearch:
-Reason: For replicating and indexing data, allowing for fast search and real-time visualization of large datasets.
+
+Reason: For replicating and indexing data, allowing for fast search and real-time visualization
+of large datasets.
 
 ------------------------------------------------------------------------------------------------
 
